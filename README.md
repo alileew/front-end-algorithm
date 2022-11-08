@@ -1,1 +1,1 @@
-# front-end-algorithm
+### 记录前端常考算法，方便日后复习
